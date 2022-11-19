@@ -46,3 +46,13 @@ Console.Write("Исходный массив: "); PrintStringArray(inArray); Con
 
 string[] outArray = ArrayProcess(inArray, 3);
 Console.Write("Полученный массив: "); PrintStringArray(outArray); Console.WriteLine();
+
+/*
+Terminal:
+
+=========== Контрольная работа =============
+Исходный массив: [reg, 27, Egor, Orlenok, 3, 5, years]
+Полученный массив: [reg, 27, 3, 5]
+PS D:\01 ОБУЧЕНИЕ\GeekBrains\Итоги блока. Выбор специализации\HW_Main\HW_Project\HW_Program> 
+
+*/
